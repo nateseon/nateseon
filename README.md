@@ -8,7 +8,7 @@
 ### About me 👋
 
 
-<!-- I need to make this profile README more fascinating -->
+<!-- I need to make this profile README more fascinating and professional -->
 
 Hi, I'm Nate. Nice to see you
 
