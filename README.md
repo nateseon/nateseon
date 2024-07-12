@@ -24,8 +24,8 @@ Hi, I'm Nate. Nice to see you
 | Rank | Priority |
 |-----:|---------------|
 |     1| Languages     |
-|     2| Love          |
-|     3| Liquor        |
+|     2| AI            |
+|     3| Food          |
 </details>
 
 ---
