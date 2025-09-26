@@ -7,28 +7,7 @@
 
 ### About me 👋
 
-
-<!-- I need to make this profile README more fascinating and professional -->
-
-Hi, I'm Nate. Nice to see you
-
-
-- 💬 Ask me about great restaurants in Seattle
-- 📫 How to reach me: email me anytime
-- ⚡ Fun fact: I love snowboarding, singing, and coding 🙀
-
-
-
-<details open>
-<summary>My top THINGS-TO-RANK</summary>
-| Rank | Priority |
-|-----:|---------------|
-|     1| Languages     |
-|     2| AI            |
-|     3| Food          |
-</details>
-
----
-> If we pull together and commit ourselves, then we can push through anything.
-
-— Mona the Octocat
+Motivated Software Engineer with 4 years of experience in business management. Skilled in
+Python, JavaScript, AWS, AI, with a strong foundation in analytical
+thinking and problem-solving. Seeking a challenging internship opportunity to leverage both
+technical and business skills to contribute to innovative projects.
