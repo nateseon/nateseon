@@ -59,10 +59,8 @@ Currently pursuing my Master's in CS, I specialize in **Full Stack Development**
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nateseon&show_icons=true&theme=radical" height="180" alt="Nate's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nateseon&layout=compact&theme=radical&hide=html,css" height="180" alt="Top Languages" />
-</div>
+![Nate's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nateseon&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nateseon&layout=compact&theme=radical&hide=html,css)
 
 ---
 <div align="center">
