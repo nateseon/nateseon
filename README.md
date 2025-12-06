@@ -56,13 +56,6 @@ Currently pursuing my Master's in CS, I specialize in **Full Stack Development**
 * **Tech:** Node.js, Express, MongoDB, React, Ollama.
 
 ---
-
-### 📈 GitHub Stats
-
-![Nate's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nateseon&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nateseon&layout=compact&theme=radical&hide=html,css)
-
----
 <div align="center">
   <p>Thanks for visiting! Feel free to reach out for collaboration.</p>
 </div>
